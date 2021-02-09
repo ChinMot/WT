@@ -1,1 +1,1 @@
-# WT
+# Static web pages
