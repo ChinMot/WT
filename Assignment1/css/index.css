@@ -67,7 +67,9 @@ padding-bottom: 6%;
 overflow:hidden; 
 margin-bottom: 12%; 
 background-color: rgba(0, 0, 0, 0.7); 
-max-width: 660px; 	
+max-width: 660px;
+margin-left: 20%;
+margin-right: 20%;  
 }
 
 .button{
